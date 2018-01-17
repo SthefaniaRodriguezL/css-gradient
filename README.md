@@ -47,7 +47,7 @@ the repo with hackreactor's. Git won't automatically pull in upstream changes fo
 you; it trusts that you'll pull them in as needed. Do so by giving Git a reference
 to hackreactor's version of the repo:
 
-    git remote add upstream https://github.com/hackreactor/YYYY-MM-toy-problems.git
+    git remote add upstream https://github.com/HC-CDMX/toy-problems.git
 
   > Be sure to substitue `YYYY-MM` with your actual cohort prefix! (ex: 2015-05)
 
@@ -69,4 +69,3 @@ local copy. To resolve this problem, run:
 
 Resolve any conflicts, merge, commit and push. You will then be able to submit a
 Pull Request that will get correctly merged.
-
