@@ -1,3 +1,4 @@
+
 /**
  * Insertion sort is a basic sorting algorithm.
  *
@@ -45,8 +46,7 @@ var testingTransform = function(array) {
   return transform;
 };
 
-var insertionSort = function(array
-) {
-  // Your code goes here. Feel free to add helper functions if needed.
+var insertionSort = function(array) {
+	
   return array;
 };
